@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Christian C. Goh | Home</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="site-header">
+
+    <h1>Christian C. Goh</h1>
+
+    <p>My Personal Website • Computer Project</p>
+
+    <nav class="site-nav">
+
+      <a href="index.html" class="active">Home</a>
+
+      <a href="about.html">About Me</a>
+
+      <a href="goals.html">Goals</a>
+
+      <a href="contact.html">Contact</a>
+
+    </nav>
+
+  </header>
+
+
+  <div class="main-container">
+
+    <section class="left-section">
+
+      <header class="section-header">
+        <h2>Welcome to My Website</h2>
+      </header>
+
+
+      <article>
+
+        <header class="article-header">
+          <h2>Hello, I'm Christian 👋</h2>
+        </header>
+
+
+        <p class="full-p">
+
+          My name is <strong>Christian C. Goh</strong>,
+          and this is my project for Computer.
+
+          This website introduces who I am, what I enjoy,
+          and the goals I want to achieve.
+
+        </p>
+
+
+        <div class="row-p-aside">
+
+          <p class="half-p">
+
+            I am very <strong>athletic</strong> and
+            <strong>business minded</strong>.
+
+            I enjoy sports, working with teammates,
+            challenging myself, and thinking about
+            opportunities for my future.
+
+          </p>
+
+
+          <aside>
+
+            <h3>Quick Facts</h3>
+
+            <ul>
+
+              <li>⚽ Athletic</li>
+
+              <li>💼 Business Minded</li>
+
+              <li>🤝 Team Player</li>
+
+              <li>🎯 Goal Oriented</li>
+
+            </ul>
+
+          </aside>
+
+        </div>
+
+
+        <footer>
+
+          <strong>Featured Goal:</strong>
+
+          Achieve 1st place in Futsal at the
+          upcoming Sportsfest with my teammates.
+
+        </footer>
+
+      </article>
+
+    </section>
+
+
+    <section class="right-section">
+
+      <header class="section-header">
+        <h2>Explore</h2>
+      </header>
+
+
+      <nav>
+
+        <h3>Quick Navigation</h3>
+
+        <ul>
+
+          <li>
+            <a href="about.html">👤 About Me</a>
+          </li>
+
+          <li>
+            <a href="goals.html">🏆 My Goals</a>
+          </li>
+
+          <li>
+            <a href="contact.html">📱 Contact Me</a>
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </section>
+
+  </div>
+
+
+  <footer class="global-footer">
+
+    <strong>Christian C. Goh</strong>
+    © 2026 • Computer Project
+
+  </footer>
+
+</body>
+
+</html>
